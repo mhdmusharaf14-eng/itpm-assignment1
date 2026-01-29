@@ -9,4 +9,6 @@ The tests are built using **Playwright** (for browser automation) and **pytest**
 
 All scenarios cover the required categories: sentence structures, grammatical forms, input lengths (S/M/L), mixed English, slang, punctuation, formatting, etc. (as per assignment tasks).
 
+Positive tests show timeouts due to output visibility issues — documented as weaknesses
+
 ## Project Structure
